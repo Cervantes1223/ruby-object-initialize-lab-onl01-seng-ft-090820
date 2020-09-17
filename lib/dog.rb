@@ -13,3 +13,4 @@ class Dog
 end
 
 lassie = Dog.new("Collie")
+lassie.breed
